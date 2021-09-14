@@ -1,7 +1,6 @@
-# tensorflow-
-JavaScript 網頁前端工程: TensorFlow 臉部辨識，背景模糊的即時視訊串流影像處理
+# JavaScript 網頁前端工程: TensorFlow 臉部辨識，背景模糊的即時視訊串流影像處理
 
-# Summary
+# 摘要
 1. TensorFlow 臉部辨識
 2. 影像背景模糊 (有臉的地方找出來)
 3. 即時視訊影像處理 (單一照片可以的話就可以用很多做處理)
